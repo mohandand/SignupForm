@@ -1,6 +1,7 @@
 h1,
 p {
   font-family: Lato;
+  text-align: center;
 }
 .container {
   display: flex;
@@ -8,4 +9,21 @@ p {
   width: 50%;
   margin: 0 auto;
   min-width: 30%;
+  border: 1px solid balck;
+  background-color: antiquewhite;
+  padding: 30px;
+}
+input {
+  margin-top: 2px;
+  padding: 5px;
+  border-radius: 5px;
+}
+button {
+  margin-top: 6px;
+  padding: 5px;
+  background-color: crimson;
+  border-radius: 5px;
+}
+label {
+  text-decoration: solid;
 }

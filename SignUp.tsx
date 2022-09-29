@@ -12,11 +12,12 @@ export default function SignUp() {
       <label>PhoneNumber</label>
       <input type="text" placeholder="Phone Number..." />
       <label>Email</label>
-      <input type="text" placeholder="Phone Number..." />
+      <input type="text" placeholder="Email..." />
       <label>Password</label>
-      <input type="text" placeholder="Phone Number..." />
+      <input type="text" placeholder="Password ..." />
       <label>Confirm Password</label>
-      <input type="text" placeholder="Phone Number..." />
+      <input type="text" placeholder="Confirm Password..." />
+      <button>SignUp</button>
     </div>
   );
 }
