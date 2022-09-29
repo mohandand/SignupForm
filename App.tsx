@@ -1,5 +1,6 @@
 import * as React from 'react';
 import './style.css';
+import SignUp from "./SignUp.js"
 
 export default function App() {
   return (
