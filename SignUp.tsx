@@ -8,7 +8,15 @@ export default function SignUp() {
       <label>FirstName</label>
       <input type="text" placeholder="First Name..." />
       <label>LastName</label>
-      <input type="text" placeholder="First Name..." />
+      <input type="text" placeholder="Last Name..." />
+      <label>PhoneNumber</label>
+      <input type="text" placeholder="Phone Number..." />
+      <label>Email</label>
+      <input type="text" placeholder="Phone Number..." />
+      <label>Password</label>
+      <input type="text" placeholder="Phone Number..." />
+      <label>Confirm Password</label>
+      <input type="text" placeholder="Phone Number..." />
     </div>
   );
 }
